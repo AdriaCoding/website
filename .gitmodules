@@ -6,3 +6,7 @@
 	path = themes/hugo-profile
 	url = https://github.com/gurusabarish/hugo-profile.git
 	branch = master
+[submodule "themes/osprey-delight"]
+	path = themes/osprey-delight
+	url = https://github.com/kdevo/osprey-delight.git
+	branch = master
